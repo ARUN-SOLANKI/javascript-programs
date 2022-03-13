@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    /* position: relative; */
+}
+.main{
+    background-color: rgba(15,15,15,0.5);
+    width:70%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 70px;
+    margin-top: 250px;
+    z-index: 10;
+}
+.main .color-text{
+    font-size: 25px;
+    margin-bottom: 20px;
+    color:aliceblue
+}
+.btn{
+    padding: 20px;
+    font-size: 20px;
+}

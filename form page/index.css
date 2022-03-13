@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+body{
+    background-color: grey;
+}
+div{
+    padding-top: 3rem;
+    width: 80rem;
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: center;
+    margin-top: 3rem;
+}
+input{
+    width: 60%;
+    height: 5rem;
+    font-size: 3rem;
+    margin: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 0.3rem;
+}
+button{
+    padding: 1rem 4rem;
+    font-size: 3rem;
+    width: 30rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    background-color:  rgb(127, 157, 255);
+    color: white;
+    border: 0.2rem solid white;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 5rem;
+}

@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+body{
+    background-color: aquamarine;
+    position: relative;
+}
+.container{
+    background-color: #cccccc;
+    position: absolute;
+    padding: 80px;
+    width: 960px;
+    margin: auto;
+    left: 15%;
+    margin-top: 280px;
+    text-align: center;
+}
+    input{
+    margin-bottom: 0.5rem;
+    width: 50%;
+    height: 45px;
+    font-size: 24px;
+    text-align: center;
+}
+.sub{
+    background-color: aquamarine;
+    padding: 10px 20px;
+}

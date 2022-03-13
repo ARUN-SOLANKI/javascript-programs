@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% ,-50%);
+}
+.search_div{
+    width: 800px;
+    display: flex;
+    justify-content:center;
+    height: 40px;
+    border:1px solid blue;
+    padding: 2px 0px;
+    border-radius: 3px;
+}
+.input_search{
+    width: 60%;
+    height: 100%;
+}
+.button_search{
+    width: 40%;
+    height: 100%;
+    background-color: bisque;
+}
+input{
+    height: 100%;
+    width: 100%;
+    border: 0px;
+    font-size: 20px;
+    padding-left: 15px;
+}
+button{
+    height: 100%;
+    width: 100%;
+    border: 0px;
+    background-color: rgba(255,255,255,0%);
+    border-radius: 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.cloud{
+    text-align: center;
+    margin-top: 50px;
+}
+.content{
+    margin-top: 40px;
+    background-color: aquamarine    ;
+}
+.best{
+    font-size: 32px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+.season{
+    text-align: center;
+    font-size: 40px;
+}
+.date{
+    text-align: center;
+    font-size:28px;
+}
+img{
+    margin-top: 30px;
+}
+.getclass{
+    text-align: center;
+}

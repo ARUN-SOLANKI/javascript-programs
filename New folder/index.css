@@ -1,0 +1,12 @@
+.btn_parent{
+    padding: 40px 50px;
+    background-color: aquamarine;
+}
+.parent{
+    padding: 40px 50px;
+    background-color: rgba(255, 195, 127, 0.849);
+}
+.main{
+    padding: 40px 50px;
+    background-color: rgba(255, 195, 127, 0.849);
+}

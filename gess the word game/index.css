@@ -1,0 +1,16 @@
+.main_div span{
+    font-size: 60px;
+    align-items: center;
+}
+
+.container{
+    position: absolute;
+    left: 50%;
+    top:20%;
+    transform: translate(-50% , 0px);
+    text-align: center;
+    border: 5px seagreen;
+}
+h1{
+    margin-top: 40px;
+}

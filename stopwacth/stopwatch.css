@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Code+Pro:wght@600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Zen+Antique&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(65, 105, 225, 0.685);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.container{
+    text-align: center;
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Bebas Neue', cursive;
+    border: 8px solid #cccccc;
+    margin-top: 10%;
+    padding: 80px;
+    background-color: rgba(255, 105, 180, 0.521);
+}
+.txt{
+    font-size: 40px;
+    font-family: 'Zen Antique', serif;  
+}
+.start1{
+    padding: 10px 40px;
+    
+    background-color:rgb(139, 207, 36) ;
+    border: 0px;
+    font-size: 19px;
+    font-weight: 700;
+    color: aliceblue;
+    cursor: pointer;
+}
+.start1:hover{
+    background-color:rgba(139, 207, 36, 0.822);
+}
+.stop1{
+    padding: 10px 40px;
+    
+    background-color:rgb(255, 0, 0);
+    border: 0px;
+    font-size: 19px;
+    font-weight: 700;
+    color: aliceblue;
+    cursor: pointer;
+}
+.stop1:hover{
+    background-color:rgba(255, 0, 0, 0.336);
+}
+.reset1{
+    padding: 10px 40px;
+    background-color:rgb(0, 0, 255);
+    border: 0px;
+    font-size: 19px;
+    font-weight: 700;
+    color: aliceblue;
+    cursor: pointer;
+}
+.reset1:hover{
+    background-color:rgb(0, 0, 255);
+    background-color:rgba(0, 0, 255, 0.274);
+}
+h1{
+    display: block;
+}

@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+}
+.main .form_div input{
+    min-width:800px;
+    padding: 10px;    
+}
+button{
+    padding: 10px 40px;
+    margin-left: 10px;
+}
+.form_div{
+    margin-bottom: 2em;
+}
+.tbclass{
+text-align: left    ;
+}
+table{
+    margin-top: 20px;
+    text-align: left;
+    border: 1px solid green;
+}
+table thead{
+    font-size: 25px;
+    font-weight: 600;
+    color:brown;
+
+}
+table .tbtr{
+    font-size: 25px;
+    font-weight: 600;
+    color:rgb(42, 157, 165);
+}
